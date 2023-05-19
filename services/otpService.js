@@ -16,7 +16,7 @@ exports.sendOTP = async (email, otp) => {
         secure: false, 
         auth: {
             user: 'healthcode63@gmail.com', 
-            pass: 'D@t@D!@b3t3$12', 
+            pass: '************', 
         },
         timeout: 10000,
    
